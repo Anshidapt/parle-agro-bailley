@@ -1,0 +1,152 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #0a0b27;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
+.logo img{
+    width:120px;
+    height:28px;
+    padding-left: 31px;
+    padding-top: 12px;
+}
+.list{
+    list-style:none;
+    display: flex;
+}
+.nav-link a{
+    color:#fff;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 36px;
+    padding-right: 20px;
+    font-size: 18px;
+}
+.image img{
+    width: 100%;
+}
+.box{
+    width: 100%;
+    height:1184px;
+    margin-top: -4px;
+}
+.left{
+    background: rgb(82,10,118);
+    height: 1508px;
+    width: 50%;
+}
+.right{
+    width: 50%;
+    height: 1184px;
+    margin-left: 680px;
+    font-family: "merivaregular";
+    font-size: 26px;
+    line-height: 1.2;
+    color: rgb(82,10,118);
+}
+.para1 {
+    margin-left: 153px;
+    margin-top: -1208px;
+    font-size: 40px;
+
+}
+.para2 {
+    margin-left: 153px;
+    margin-top: 22px;
+}
+.para3{
+    margin-left: 153px;
+    margin-top: 22px;
+}
+
+.logos {
+    margin-left: 889px;
+    margin-top: -330px;
+    font-size: 32px;
+}
+.leaf img {
+    width: 160px;
+    height: 591px;
+    padding-left: 258px;
+    margin-top: 460px;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900px;
+    font-family: "EksellDisplayWeb-Small";
+    color: #fff;
+    margin-top: -397px;
+}
+.finalimage img{
+    width: 100%;
+    padding-top: 324px;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    padding-top: 64px;
+    padding-bottom: 73px;
+}
+.footer1{
+    font-size: 14px;
+}
+.footer2{
+    font-size: 14px;
+    margin-top: 10px;
+}
+.footer3{
+    font-size: 14px;
+}
+.footer4{
+    font-weight: bold;
+}
+.footer8{
+    margin-top: 12px;
+}
+footer span{
+    font-weight: bold;
+
+}
+.fa-brands{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.footer00{
+    gap: 20px;;
+}
+.footerrr p{
+    margin-bottom: 10px;
+}
+.footerr p{
+    margin-bottom: 10px;
+}
+.footerr .footer4:hover{
+    color: red;
+}
+.footer5 span:hover{
+    color: red;
+}
+.footer6 span:hover{
+    color: red;
+}
+.footerrr .footer7 span:hover{
+    color: red;
+}
+
+
+
+
+     
